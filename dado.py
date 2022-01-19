@@ -1,7 +1,7 @@
 # simulador de dado
 import random
 import PySimpleGUI as sg
-
+ 
 
 class SimuladorDeDado:
     
